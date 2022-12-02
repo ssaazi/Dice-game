@@ -1,0 +1,21 @@
+javascript is one ofthe three core technologies of web development
+Today, javascript can be used in different places:
+ -client-side:used on wed browser 
+ -Server-side: used on server as well
+
+Datatypes in javascript
+ -Number: integer, float
+ -string
+ -Boolean
+ -Undefined: datatype of variabley that does not have a value yet
+ -null: Also means 'non-existent' 
+   
+   types of function 
+   - anonyous function eg 
+        document.querySelector('.btn-roll').addEventListener('click',function() {
+            // syntax
+        });
+   - Named function eg 
+        function btn () {
+            //syntax
+        }     
